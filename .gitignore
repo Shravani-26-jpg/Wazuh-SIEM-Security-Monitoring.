@@ -1,0 +1,22 @@
+# Logs
+*.log
+logs/
+
+# Environment and secrets
+.env
+.env.*
+*.key
+*.pem
+*.secret
+*.password
+*.token
+wazuh-install-files.tar
+wazuh-passwords.txt
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+.vscode/
+.idea/
